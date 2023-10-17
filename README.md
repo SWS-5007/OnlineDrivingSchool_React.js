@@ -1,4 +1,4 @@
-# Road Skills School - Driving School Website
+# Driving School Website
 
 ![Road Skills School](https://github.com/DevRex-0201/React-OnlineSchool/blob/main/src/images/car-driving-women.jpg)
 
